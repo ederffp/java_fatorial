@@ -1,4 +1,4 @@
-# Algortimo que encontrar fatorial de um Numero
+# Algortimo para encontrar fatorial de um Numero
 
 ## Descrição:
 
@@ -113,7 +113,7 @@ userNumber = 6;
 -> 720 * 1 = 720
 ```
 
-<p> Esse valor ficará armazenado ? ficará na variavel <b>totalFatorial</b>.
+<p> Esse valor ficará armazenado na variavel <b>totalFatorial</b>. Portanto o valor de saida após a entrada antes feita pelo usuário sera todo armazenado nessa variavel. Fiz questão de deixar claro o valor de i para mostrar as passagens a cada decrementação do numero informado pelo usuário.
 
 
 
